@@ -1,3 +1,5 @@
+
+
 #!/bin/bash
 # As described in `CONTRIBUTING.md`, this script checks and formats Optuna's source codes by
 # `black`, `blackdoc`, and `isort`. If you pass `-n` as an option, this script checks codes
